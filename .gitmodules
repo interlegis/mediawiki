@@ -98,3 +98,15 @@
 	path = vendor
 	url = https://gerrit.wikimedia.org/r/mediawiki/vendor
 	branch = REL1_31
+[submodule "extensions/BlogPage"]
+	path = extensions/BlogPage
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/BlogPage.git
+[submodule "extensions/SocialProfile"]
+	path = extensions/SocialProfile
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/SocialProfile.git
+[submodule "extensions/Comments"]
+	path = extensions/Comments
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/Comments.git
+[submodule "extensions/VoteNY"]
+	path = extensions/VoteNY
+	url = https://gerrit.wikimedia.org/r/p/mediawiki/extensions/VoteNY.git
